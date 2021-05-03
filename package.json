@@ -1,0 +1,16 @@
+{
+  "name": "retry-fn",
+  "version": "1.0.0",
+  "author": "Sibelius Seraphini <sibeliusseraphini@gmail.com>",
+  "devDependencies": {
+    "@babel/preset-env": "^7.14.0",
+    "@babel/preset-typescript": "^7.13.0",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  },
+  "license": "MIT",
+  "main": "src/retry.ts",
+  "scripts": {
+    "jest": "yarn jest"
+  }
+}
